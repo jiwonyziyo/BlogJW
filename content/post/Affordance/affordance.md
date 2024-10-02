@@ -26,4 +26,4 @@ The placement of a power button above the delete key on a keyboard is a bad exam
 
 ## Good case
 
-1. good case nlahalahl
+1. 
