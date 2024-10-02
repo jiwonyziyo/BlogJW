@@ -25,3 +25,5 @@ The placement of a power button above the delete key on a keyboard is a bad exam
 3.	Contrary to User Expectations: Users do not expect two very different functions to be positioned so closely together. This placement disrupts the intuitive understanding of how the keyboard should work.
 
 ## Good case
+
+1. good case nlahalahl
