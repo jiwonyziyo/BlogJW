@@ -1,10 +1,10 @@
 +++
 
-title = "Affordance"
-date = 2024-10-02
+title = "Lecture 1 - Affordances"
+date = 2024-09-19
 categories =["HCI-HW"]
 author = "jiwon"
-image = "affordance.jpeg"
+
 +++
 
 Affordance gives users a visual hint on what actions they can take.
@@ -24,6 +24,4 @@ The placement of a power button above the delete key on a keyboard is a bad exam
 2.	Functional Mismatch: The delete key is frequently used, whereas the power button is not. Placing such an important function near a less frequently used key increases the risk of errors and reduces the overall usability.
 3.	Contrary to User Expectations: Users do not expect two very different functions to be positioned so closely together. This placement disrupts the intuitive understanding of how the keyboard should work.
 
-## Good case
 
-1. 

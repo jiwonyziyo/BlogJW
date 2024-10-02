@@ -6,13 +6,42 @@
         <description>Recent content on Jiwon KANG</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/BlogJW/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Affordance</title>
+        <lastBuildDate>Fri, 27 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/BlogJW/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Lecture 2 - Gestalt Law</title>
+        <link>http://localhost:1313/BlogJW/post/gestalt-laws/gestaltlaw/</link>
+        <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/BlogJW/post/gestalt-laws/gestaltlaw/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Lecture 3 - Dark Design Patterns</title>
+        <link>http://localhost:1313/BlogJW/post/dark-design-patterns/darkdesignpattern/</link>
+        <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/BlogJW/post/dark-design-patterns/darkdesignpattern/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>About</title>
+        <link>http://localhost:1313/BlogJW/page/about/</link>
+        <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/BlogJW/page/about/</guid>
+        <description>&lt;p&gt;Hello,&lt;/p&gt;
+&lt;p&gt;Welcome to my blog !&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m Jiwon KANG 🇰🇷&lt;/p&gt;
+&lt;p&gt;For those who are not familiar with Korean names, my name is pronounced by combining the letter &amp;lsquo;&lt;strong&gt;G&lt;/strong&gt;&amp;rsquo; and the number &amp;lsquo;&lt;strong&gt;1&lt;/strong&gt;&amp;rsquo;, like &lt;strong&gt;G1&lt;/strong&gt; 😉&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m currently in Master 2 of VAR in Telecom SudParis 👩‍💻&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Lecture 1 - Affordances</title>
         <link>http://localhost:1313/BlogJW/post/affordance/affordance/</link>
-        <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/BlogJW/post/affordance/affordance/</guid>
-        <description>&lt;img src="http://localhost:1313/BlogJW/affordance.jpeg" alt="Featured image of post Affordance" /&gt;&lt;p&gt;Affordance gives users a visual hint on what actions they can take.&lt;/p&gt;
+        <description>&lt;p&gt;Affordance gives users a visual hint on what actions they can take.&lt;/p&gt;
 &lt;p&gt;For example, when we see a button, we instinctively want to press it, or when we see a switch, we feel like pulling it. On an app or website, a rectangular box with a border makes us think we can click and type into it. These cues play into human psychology.&lt;/p&gt;
 &lt;p&gt;Thus, affordance is a crucial element of visual user interfaces. The clearer the visual cues are, the less ambiguity there is for the user to understand what action is expected.&lt;/p&gt;
 &lt;p&gt;In mobile environments, the importance of affordance becomes even more pronounced, as the small screen size and limited space make it harder for affordance to be as visually obvious. Therefore, clear affordance is critical to ensure smooth user interaction on mobile devices.&lt;/p&gt;
@@ -33,23 +62,6 @@
 &lt;li&gt;Functional Mismatch: The delete key is frequently used, whereas the power button is not. Placing such an important function near a less frequently used key increases the risk of errors and reduces the overall usability.&lt;/li&gt;
 &lt;li&gt;Contrary to User Expectations: Users do not expect two very different functions to be positioned so closely together. This placement disrupts the intuitive understanding of how the keyboard should work.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&#34;good-case&#34;&gt;Good case
-&lt;/h2&gt;&lt;ol&gt;
-&lt;li&gt;good case nlahalahl&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-        </item>
-        <item>
-        <title>About</title>
-        <link>http://localhost:1313/BlogJW/page/about/</link>
-        <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/BlogJW/page/about/</guid>
-        <description>&lt;p&gt;Hello,&lt;/p&gt;
-&lt;p&gt;Welcome to my blog !&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;m Jiwon KANG 🇰🇷&lt;/p&gt;
-&lt;p&gt;For those who are not familiar with Korean names, my name is pronounced by combining the letter &amp;lsquo;&lt;strong&gt;G&lt;/strong&gt;&amp;rsquo; and the number &amp;lsquo;&lt;strong&gt;1&lt;/strong&gt;&amp;rsquo;, like &lt;strong&gt;G1&lt;/strong&gt; 😉&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;m currently in Master 2 of VAR in Telecom SudParis 👩‍💻&lt;/p&gt;
 </description>
         </item>
         <item>
